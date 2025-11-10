@@ -1,0 +1,13 @@
+Create proper topics from these resources and add them in my project
+
+============================
+The image references should be relative, I already have them in the project. Explore the project to find them
+
+
+
+
+
+=====
+2
+=====
+Task: verify if these topics use the appropriate DITA information type, see what positron  actions there for such analysis and conversionsh, if convertion is needed, convert them.

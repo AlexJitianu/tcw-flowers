@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="cherry-blossom">
+    <title>Cherry blossom</title>
+    <shortdesc>A cherry blossom is a flower of many trees of the genus Prunus, most famously the Japanese cherry (Prunus serrulata), also known as sakura.</shortdesc>
+    <conbody>
+        <p>A cherry blossom is a flower of many trees of the genus <ph>Prunus</ph>. The most well-known species is the Japanese cherry, <ph>Prunus serrulata</ph>, which is commonly called sakura (桜 or 櫻; さくら).</p>
+        <fig>
+            <title>Cherry blossom flowers</title>
+            <image href="../media/cherry-blossom.jpg" alt="Close-up of pink cherry blossom flowers on a branch."/>
+        </fig>
+        <p>Cherry blossoms are widely distributed, especially in the temperate zone of the Northern Hemisphere, including Japan, Taiwan, Korea, Mainland China, Nepal, India, Pakistan, Afghanistan, Iran, Myanmar, Thailand, and West Siberia. Along with the chrysanthemum, the cherry blossom is considered the national flower of Japan.</p>
+        <p>All varieties of cherry blossom trees produce small, unpalatable fruit or edible cherries. Edible cherries generally come from cultivars of the related species <ph>Prunus avium</ph> and <ph>Prunus cerasus</ph>.</p>
+        <section>
+            <title>Culinary use</title>
+            <p>Cherry blossoms and leaves are edible and both are used as food ingredients in Japan:</p>
+            <ul>
+                <li>The blossoms are pickled in salt and umezu (ume vinegar), and used for flavoring wagashi (traditional Japanese confectionery) or anpan (a Japanese sweet bun, most commonly filled with red bean paste).</li>
+                <li>Salt-pickled blossoms in hot water are called sakurayu, and are drunk at festive events like weddings in place of green tea.</li>
+                <li>The leaves, mostly from the Ōshima cherry because of their softness, are also pickled in salted water and used for sakuramochi.</li>
+                <li>The fruit, called sakuranbo, is small and does not have much flesh beyond the seed. Due to their bitter taste, sakuranbo should not be eaten raw or whole; the seed inside should be removed and the fruit processed as preserves.</li>
+            </ul>
+            <p>Since the leaves contain coumarin, which is toxic in large doses, it is not recommended to eat them in great quantities. Likewise, the seeds should not be eaten.</p>
+        </section>
+    </conbody>
+</concept>
